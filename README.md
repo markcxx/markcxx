@@ -96,8 +96,8 @@
   <a href="https://github.com/markcxx/markai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=markcxx&repo=markai&theme=radical&hide_border=true" alt="MarkAI" />
   </a>
-  <a href="https://github.com/markcxx/huggingface-openai-proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markcxx&repo=huggingface-openai-proxy&theme=radical&hide_border=true" alt="HuggingFace OpenAI Proxy" />
+  <a href="https://github.com/markcxx/Xiaozhi-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=markcxx&repo=Xiaozhi-ai&theme=radical&hide_border=true" alt="Xiaozhi-ai" />
   </a>
 </div>
 
